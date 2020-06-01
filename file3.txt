@@ -2,4 +2,4 @@ hi,
 
 Right now im in branch b1 lest see if i jump to new branch with cmmd git checkout -b new branch name will it copy this file too and if yes will this file be on master branch 
 
-
+hi from branch b1
