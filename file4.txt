@@ -9,3 +9,9 @@ now will differ and merge the files in all branch as in ever branch their is a f
 now going to b2 branch 
 
 
+
+hi from master branch 
+
+
+now switching to b1 branch 
+
