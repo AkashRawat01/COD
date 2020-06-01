@@ -1,0 +1,4 @@
+hi from b2 branch 
+
+
+now will differ and merge the files in all branch as in ever branch their is a file4.txt file
